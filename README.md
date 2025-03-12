@@ -33,7 +33,7 @@ git lfs install
 
 ### Cloning the Repository and Models
 ```bash
-git clone https://github.com/your-username/yolov8-crack-detection.git
+git clone https://github.com/Gautham-Ramkumar03/yolov8-crack-detection.git
 cd yolov8-crack-detection
 git lfs pull
 ```
